@@ -8,7 +8,7 @@ const ProjectDetails = props => {
         <div className="card-content">
           <span className="card-title">Project Title - {id}</span>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur asperiores, architecto ducimus perspiciatis saepe illum, repellendus ab
+            A B Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur asperiores, architecto ducimus perspiciatis saepe illum, repellendus ab
             deleniti iste natus aliquid. Libero ullam velit sequi, cumque laborum ipsa veritatis minima!
           </p>
         </div>
